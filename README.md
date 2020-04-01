@@ -1,9 +1,13 @@
 # YtDownloader
 just want to make something to download yt
 
+current function:
+download mp4
+download mp3
+convert file to mp3
+
 ---------------------todo list----------------------------------------  
 download by reading file  
-download in mp3  
 
 ---------------------plugin note--------------------------------------  
 python3.8  
